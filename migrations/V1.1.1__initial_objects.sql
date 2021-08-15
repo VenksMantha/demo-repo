@@ -1,4 +1,4 @@
-USE DEMO ;
+USE venks_default_db.demo ;
 
 CREATE TABLE HELLO_WORLD
 (
